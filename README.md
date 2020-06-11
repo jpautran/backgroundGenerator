@@ -10,7 +10,7 @@
 <img src="assets/img/background.gif" align="center">
 </h1>
 
-# 🔥 About 📝📋
+# 📋 About
 
 The Background Generator is project that I developed in December 2019 to help people check and decide which background gradient to use. It automatically gives you the line of code to paste in the css file and get the same result on your website!
 
